@@ -1,0 +1,208 @@
+Uri: https://fonts.googleapis.com/css2?family=Poppins&display=swap
+File Name: H:\WEB\www.easemydeal.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: H:\WEB\www.easemydeal.com\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://www.easemydeal.com/assets/css/header_desktop.css
+File Name: H:\WEB\www.easemydeal.com\assets\css\header_desktop.css
+Content Type: text/css
+
+Uri: https://www.easemydeal.com/assets/css/main.css
+File Name: H:\WEB\www.easemydeal.com\assets\css\main.css
+Content Type: text/css
+
+Uri: https://www.easemydeal.com/assets/css/recharge/custom.css
+File Name: H:\WEB\www.easemydeal.com\assets\css\recharge\custom.css
+Content Type: text/css
+
+Uri: https://www.easemydeal.com/assets/css/recharge/operator-plan-page-desktop.css
+File Name: H:\WEB\www.easemydeal.com\assets\css\recharge\operator-plan-page-desktop.css
+Content Type: text/css
+
+Uri: https://www.easemydeal.com/assets/css/recharge/recharge_header.css
+File Name: H:\WEB\www.easemydeal.com\assets\css\recharge\recharge_header.css
+Content Type: text/css
+
+Uri: https://www.easemydeal.com/assets/css/recharge/recharge_sub_header.css
+File Name: H:\WEB\www.easemydeal.com\assets\css\recharge\recharge_sub_header.css
+Content Type: text/css
+
+Uri: https://www.easemydeal.com/assets/css/recharge/sidebar_desktop.css
+File Name: H:\WEB\www.easemydeal.com\assets\css\recharge\sidebar_desktop.css
+Content Type: text/css
+
+Uri: https://www.easemydeal.com/assets/image/bbps-b.png
+File Name: H:\WEB\www.easemydeal.com\assets\image\bbps-b.png
+Content Type: image/png
+
+Uri: https://www.easemydeal.com/assets/image/header/trending-up-icon.svg
+File Name: H:\WEB\www.easemydeal.com\assets\image\header\trending-up-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easemydeal.com/assets/image/home/scan-code-sm.png
+File Name: H:\WEB\www.easemydeal.com\assets\image\home\scan-code-sm.png
+Content Type: image/png
+
+Uri: https://www.easemydeal.com/assets/image/Icons/google.png
+File Name: H:\WEB\www.easemydeal.com\assets\image\Icons\google.png
+Content Type: image/png
+
+Uri: https://www.easemydeal.com/assets/image/Icons/hot-sale.png
+File Name: H:\WEB\www.easemydeal.com\assets\image\Icons\hot-sale.png
+Content Type: image/png
+
+Uri: https://www.easemydeal.com/assets/image/Icons/protection.png
+File Name: H:\WEB\www.easemydeal.com\assets\image\Icons\protection.png
+Content Type: image/png
+
+Uri: https://www.easemydeal.com/assets/image/new-favicon.png
+File Name: H:\WEB\www.easemydeal.com\assets\image\new-favicon.png
+Content Type: image/png
+
+Uri: https://www.easemydeal.com/assets/image/placeholder/desktop/landscape-image.svg
+File Name: H:\WEB\www.easemydeal.com\assets\image\placeholder\desktop\landscape-image.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easemydeal.com/assets/image/recharge/down-arrow.svg
+File Name: H:\WEB\www.easemydeal.com\assets\image\recharge\down-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easemydeal.com/assets/image/recharge/EaseMyDeal-logo.png
+File Name: H:\WEB\www.easemydeal.com\assets\image\recharge\EaseMyDeal-logo.png
+Content Type: image/png
+
+Uri: https://www.easemydeal.com/assets/image/recharge/inditab-green.png
+File Name: H:\WEB\www.easemydeal.com\assets\image\recharge\inditab-green.png
+Content Type: image/png
+
+Uri: https://www.easemydeal.com/assets/js/emd-global.js
+File Name: H:\WEB\www.easemydeal.com\assets\js\emd-global.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/assets/js/global-search.js
+File Name: H:\WEB\www.easemydeal.com\assets\js\global-search.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/assets/js/recharge/bootstrap-select.js
+File Name: H:\WEB\www.easemydeal.com\assets\js\recharge\bootstrap-select.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/assets/js/recharge/jquery.mCustomScrollbar.concat.min.js
+File Name: H:\WEB\www.easemydeal.com\assets\js\recharge\jquery.mCustomScrollbar.concat.min.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/assets/js/recharge/login.js
+File Name: H:\WEB\www.easemydeal.com\assets\js\recharge\login.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/assets/js/recharge/original/custom_new.js
+File Name: H:\WEB\www.easemydeal.com\assets\js\recharge\original\custom_new.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/assets/js/recharge/recharge-common-index.js
+File Name: H:\WEB\www.easemydeal.com\assets\js\recharge\recharge-common-index.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/assets/js/recharge/recharge-mobile-index.js
+File Name: H:\WEB\www.easemydeal.com\assets\js\recharge\recharge-mobile-index.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/assets/js/recharge/scrollBar.js
+File Name: H:\WEB\www.easemydeal.com\assets\js\recharge\scrollBar.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/assets/new/css/modelstyle.css
+File Name: H:\WEB\www.easemydeal.com\assets\new\css\modelstyle.css
+Content Type: text/css
+
+Uri: https://www.easemydeal.com/assets/new/image/backimg.png
+File Name: H:\WEB\www.easemydeal.com\assets\new\image\backimg.png
+Content Type: image/png
+
+Uri: https://www.easemydeal.com/assets/new/image/check.svg
+File Name: H:\WEB\www.easemydeal.com\assets\new\image\check.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easemydeal.com/assets/new/image/goole.svg
+File Name: H:\WEB\www.easemydeal.com\assets\new\image\goole.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easemydeal.com/assets/new/image/trust-img-1.svg
+File Name: H:\WEB\www.easemydeal.com\assets\new\image\trust-img-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easemydeal.com/assets/new/image/trust-img-2.svg
+File Name: H:\WEB\www.easemydeal.com\assets\new\image\trust-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easemydeal.com/assets/new/image/trust-img-3.svg
+File Name: H:\WEB\www.easemydeal.com\assets\new\image\trust-img-3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.easemydeal.com/assets/new/js/aos.js
+File Name: H:\WEB\www.easemydeal.com\assets\new\js\aos.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/assets/plugins/bootstrap.min.js
+File Name: H:\WEB\www.easemydeal.com\assets\plugins\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/assets/plugins/bootstrap/bootstrap-select.min.css
+File Name: H:\WEB\www.easemydeal.com\assets\plugins\bootstrap\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://www.easemydeal.com/assets/plugins/bootstrap/bootstrap-select.min.js
+File Name: H:\WEB\www.easemydeal.com\assets\plugins\bootstrap\bootstrap-select.min.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/assets/plugins/bootstrap/bootstrap.bundle.min.js
+File Name: H:\WEB\www.easemydeal.com\assets\plugins\bootstrap\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/assets/plugins/bootstrap/bootstrap.min.css
+File Name: H:\WEB\www.easemydeal.com\assets\plugins\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.easemydeal.com/assets/plugins/flat-ui/css/flat-ui.min.css
+File Name: H:\WEB\www.easemydeal.com\assets\plugins\flat-ui\css\flat-ui.min.css
+Content Type: text/css
+
+Uri: https://www.easemydeal.com/assets/plugins/fontawesome/6.1.1/css/all.min.css
+File Name: H:\WEB\www.easemydeal.com\assets\plugins\fontawesome\6.1.1\css\all.min.css
+Content Type: text/css
+
+Uri: https://www.easemydeal.com/assets/plugins/jquery/jquery.min.js
+File Name: H:\WEB\www.easemydeal.com\assets\plugins\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/assets/plugins/notiflix/notiflix-loading-aio-3.2.5.min.js
+File Name: H:\WEB\www.easemydeal.com\assets\plugins\notiflix\notiflix-loading-aio-3.2.5.min.js
+Content Type: application/javascript
+
+Uri: https://www.easemydeal.com/mobile-recharge
+File Name: H:\WEB\www.easemydeal.com\mobile-recharge-1.html
+Content Type: text/html
+
+Uri: https://www.easemydeal.com/mobile-recharge/
+File Name: H:\WEB\www.easemydeal.com\mobile-recharge\index.htm
+Content Type: text/html
+
+Uri: https://www.easemydeal.com/mobile-recharge?srsltid=AfmBOooPXV8je8gRuJpnGqyHFvLJ8qn56U9FMUoWQsvA3w9FR4uDlpIU
+File Name: H:\WEB\www.easemydeal.com\mobile-recharge.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/tr?id=2392251147739984&ev=PageView&noscript=1
+File Name: H:\WEB\www.easemydeal.com\tr
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-815341763
+File Name: H:\WEB\www.easemydeal.com\gtag\js-1
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-D6CKSTDSRS
+File Name: H:\WEB\www.easemydeal.com\gtag\js
+Content Type: application/javascript
+

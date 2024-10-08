@@ -1,0 +1,285 @@
+.all_icons li a,
+.more_icon_list ul li a {
+  color: #383072;
+  font-size: 12px
+}
+
+.all_services {
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #bfbfbf;
+  margin-bottom: 10px;
+  margin-top: 0 !important;
+  padding: 20px 6px 15px
+}
+
+.all_icons li a {
+  line-height: 21px;
+  margin-right: 8px;
+  font-weight: 700
+}
+
+.recharge-icon-container {
+  padding: 16px;
+  background-color: #f3f2fb;
+  border-radius: 15px;
+  height: 60px;
+  width: 60px
+}
+
+.all_icons li a img {
+  display: initial;
+  margin: auto;
+  width: 100%;
+  height: 100%
+}
+
+.more_icon_list {
+  top: 90px
+}
+
+.full_btn,
+.operator_sign a,
+.plans_table thead tr th {
+  font-size: 12px !important
+}
+
+.operator_hub {
+  background-color: #ebf1f5 !important
+}
+
+.all_icons .active .recharge-icon-container-footer {
+  border: 2px solid #f57349;
+  border-radius: 2px;
+  height: 0;
+  width: 77%;
+  position: relative;
+  top: -4px
+}
+
+.operator_img_container {
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 0 13px #ddd;
+  width: fit-content;
+  padding: 2px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.operator_img_container a img {
+  margin: auto !important;
+  width: 65px !important;
+  height: 65px !important
+}
+
+.operator_sign a img {
+  margin: 10px !important;
+  width: 60px !important;
+  height: 60px !important
+}
+
+.filling_area {
+  padding: 10px 30px 30px !important;
+  box-shadow: 0 0 10px #bfbfbf
+}
+
+.filling_area .form-group .form-control {
+  background-color: #fff !important;
+  border: 1px solid #ddd !important;
+  font-size: 12px;
+  border-radius: 10px !important
+}
+
+.all_plans {
+  left: 0 !important;
+  border-radius: 15px !important;
+  width: calc(100% + 15px);
+  height: 100%
+}
+
+.right_slider .img-responsive {
+  border-radius: 15px;
+  width: 100%
+}
+
+.full_btn {
+  background-color: #f57349 !important;
+  border-color: #ff0 !important;
+  color: #fff !important
+}
+
+#close_plans,
+.fancy_r,
+.inditab_plans .nav-tabs>li>a:hover,
+.input-heading {
+  font-size: 12px
+}
+
+.plans_btn {
+  top: 1.2vh !important
+}
+
+.plans_btn a {
+  font-size: 14px !important;
+  font-weight: 400 !important
+}
+
+#close_plans,
+.top_heads h1 {
+  font-weight: 600;
+  color: #383072
+}
+
+.all_rechare_list,
+.inditab_plans .tab-content>.tab-pane {
+  padding: 0 !important
+}
+
+.inditab_plans .nav-tabs>li>a {
+  font-size: 12px;
+  color: #fff;
+  padding: 6px 4px;
+  margin-right: 10px
+}
+
+.inditab_plans .nav-tabs {
+  background-color: #daa6fb;
+  margin-bottom: 0 !important
+}
+
+.sidebar-container,
+.sidebar-container.affix {
+  top: 100px
+}
+
+.input-heading {
+  position: absolute;
+  top: -10px;
+  left: 10px;
+  background-color: #fff;
+  line-height: unset;
+  margin: 0;
+  padding: 0px 5px;
+}
+
+.filling_area .form-group {
+  margin-bottom: 12px;
+  margin-top: 20px
+}
+
+::-webkit-input-placeholder {
+  color: #d4d4d4 !important
+}
+
+:-moz-placeholder {
+  color: #d4d4d4 !important;
+  opacity: 1
+}
+
+::-moz-placeholder {
+  color: #d4d4d4 !important;
+  opacity: 1
+}
+
+:-ms-input-placeholder {
+  color: #d4d4d4 !important
+}
+
+::-ms-input-placeholder {
+  color: #d4d4d4 !important
+}
+
+::placeholder {
+  color: #d4d4d4 !important
+}
+
+.fancy_r {
+  margin-bottom: 0
+}
+
+.amount_error,
+.error_txt_new {
+  color: #d60117;
+  font-size: 10px;
+  font-family: sans-serif
+}
+
+.fancy_r .checkmark:after {
+  top: 3px;
+  left: 3px;
+  width: 7px;
+  height: 7px;
+  background-color: #3c3475
+}
+
+.fancy_r input:checked~.checkmark {
+  background: #fff
+}
+
+.checkmark {
+  height: 15px;
+  width: 15px;
+  border: 1px solid #3c3475 !important
+}
+
+.top_heads h1 {
+  font-size: 14px;
+  margin-bottom: 6px;
+  margin-top: 12px
+}
+
+.error_txt_new {
+  bottom: 8px;
+  width: 115px
+}
+
+.amount_error {
+  bottom: 1px;
+  width: 100%;
+  right: 0;
+  text-align: inherit
+}
+
+.circle_list_search>ul,
+.operator_list_search>ul {
+  margin: 0;
+  padding: 0
+}
+
+.service_image img {
+  height: auto;
+  width: 100%;
+  max-width: 300px
+}
+
+.down-arrow-icon {
+  top: -46px !important;
+}
+
+.down_arrow_img {
+  top: -30px !important
+}
+.operator-select-heading {
+  font-size: 20px;
+  line-height: 30px;
+  color: #000;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 20px;
+  position: relative;
+}
+.operator-select-heading::after {
+  content: "";
+    display: block;
+    position: absolute;
+    width: 40px;
+    height: 3px;
+    background-color: #726ab0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+
+}
