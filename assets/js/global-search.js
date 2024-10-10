@@ -133,9 +133,9 @@ if (searchKeyword != null && searchKeyword != undefined) {
           foundI++;
           found = true;
           if (foundI != 1) {
-            document.getElementById('globalPopularSearch').innerHTML += '<li><a href="' + Base_URL + chunkArray[index][chunkArrayIndex[index]].url + '"><img alt="Easemydeal" src="' + Base_URL + 'assets/image/header/trending-up-icon.svg" class="product-icon">' + chunkArray[index][chunkArrayIndex[index]].name + '</a></li>';
+            document.getElementById('globalPopularSearch').innerHTML += '<li><a href="' + Base_URL + chunkArray[index][chunkArrayIndex[index]].url + '"><img alt="OrionPay" src="' + Base_URL + 'assets/image/header/trending-up-icon.svg" class="product-icon">' + chunkArray[index][chunkArrayIndex[index]].name + '</a></li>';
           } else {
-            document.getElementById('globalPopularSearch').innerHTML = '<li><a href="' + Base_URL + chunkArray[index][chunkArrayIndex[index]].url + '"><img alt="Easemydeal" src="' + Base_URL + 'assets/image/header/trending-up-icon.svg" class="product-icon">' + chunkArray[index][chunkArrayIndex[index]].name + '</a></li>';
+            document.getElementById('globalPopularSearch').innerHTML = '<li><a href="' + Base_URL + chunkArray[index][chunkArrayIndex[index]].url + '"><img alt="OrionPay" src="' + Base_URL + 'assets/image/header/trending-up-icon.svg" class="product-icon">' + chunkArray[index][chunkArrayIndex[index]].name + '</a></li>';
           }
         } else if (found == false) {
 
@@ -145,7 +145,7 @@ if (searchKeyword != null && searchKeyword != undefined) {
           else if (searchTextDot == "....") searchTextDot = '.....';
           else searchTextDot = '.';
 
-          document.getElementById('globalPopularSearch').innerHTML = '<li><a href="javascript:void(0);"><img alt="Easemydeal" src="' + Base_URL + 'assets/image/header/trending-up-icon.svg" class="product-icon">Searching' + searchTextDot + '</a></li>';
+          document.getElementById('globalPopularSearch').innerHTML = '<li><a href="javascript:void(0);"><img alt="OrionPay" src="' + Base_URL + 'assets/image/header/trending-up-icon.svg" class="product-icon">Searching' + searchTextDot + '</a></li>';
         }
       }
       chunkArrayIndex[index] = chunkArrayIndex[index] + 1;
@@ -177,9 +177,9 @@ if (searchKeyword != null && searchKeyword != undefined) {
           foundI++;
           found = true;
           if (foundI != 1) {
-            document.getElementById('globalPopularSearch').innerHTML += '<li><a href="' + Base_URL + chunkArray_new[index][chunkArrayIndex_new[index]].url + '"><img alt="Easemydeal" src="' + Base_URL + 'assets/image/header/trending-up-icon.svg" class="product-icon">' + chunkArray_new[index][chunkArrayIndex_new[index]].name + '</a></li>';
+            document.getElementById('globalPopularSearch').innerHTML += '<li><a href="' + Base_URL + chunkArray_new[index][chunkArrayIndex_new[index]].url + '"><img alt="OrionPay" src="' + Base_URL + 'assets/image/header/trending-up-icon.svg" class="product-icon">' + chunkArray_new[index][chunkArrayIndex_new[index]].name + '</a></li>';
           } else {
-            document.getElementById('globalPopularSearch').innerHTML = '<li><a href="' + Base_URL + chunkArray_new[index][chunkArrayIndex_new[index]].url + '"><img alt="Easemydeal" src="' + Base_URL + 'assets/image/header/trending-up-icon.svg" class="product-icon">' + chunkArray_new[index][chunkArrayIndex_new[index]].name + '</a></li>';
+            document.getElementById('globalPopularSearch').innerHTML = '<li><a href="' + Base_URL + chunkArray_new[index][chunkArrayIndex_new[index]].url + '"><img alt="OrionPay" src="' + Base_URL + 'assets/image/header/trending-up-icon.svg" class="product-icon">' + chunkArray_new[index][chunkArrayIndex_new[index]].name + '</a></li>';
           }
         } else if (found == false) {
 
@@ -189,7 +189,7 @@ if (searchKeyword != null && searchKeyword != undefined) {
           else if (searchTextDot == "....") searchTextDot = '.....';
           else searchTextDot = '.';
 
-          document.getElementById('globalPopularSearch').innerHTML = '<li><a href="javascript:void(0);"><img alt="Easemydeal" src="' + Base_URL + 'assets/image/header/trending-up-icon.svg" class="product-icon">Searching' + searchTextDot + '</a></li>';
+          document.getElementById('globalPopularSearch').innerHTML = '<li><a href="javascript:void(0);"><img alt="OrionPay" src="' + Base_URL + 'assets/image/header/trending-up-icon.svg" class="product-icon">Searching' + searchTextDot + '</a></li>';
         }
       }
       chunkArrayIndex_new[index] = chunkArrayIndex_new[index] + 1;

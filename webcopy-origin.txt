@@ -70,8 +70,8 @@ Uri: https://www.easemydeal.com/assets/image/recharge/down-arrow.svg
 File Name: H:\WEB\www.easemydeal.com\assets\image\recharge\down-arrow.svg
 Content Type: image/svg+xml
 
-Uri: https://www.easemydeal.com/assets/image/recharge/EaseMyDeal-logo.png
-File Name: H:\WEB\www.easemydeal.com\assets\image\recharge\EaseMyDeal-logo.png
+Uri: https://www.easemydeal.com/assets/image/recharge/OrionPay-logo.png
+File Name: H:\WEB\www.easemydeal.com\assets\image\recharge\OrionPay-logo.png
 Content Type: image/png
 
 Uri: https://www.easemydeal.com/assets/image/recharge/inditab-green.png
